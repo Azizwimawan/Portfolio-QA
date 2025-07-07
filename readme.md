@@ -1,9 +1,9 @@
-# QA Portfolio Template
+# Aziz Wimawan's QA Portfolio
 
 Aziz Wimawan's Career Portfolio
 
 ## Table of Contents
-1. [About Me](Dynamic Product Owner, Business Analyst, & Quality Assurance with a proven track record at PT Wolkk Cloud Development, adept in Agile methodologies and project management. Spearheaded successful rollouts across multiple countries, enhancing compliance and usability. Known for fostering stakeholder alignment and delivering high-quality documentation, driving efficiency and collaboration in cross-functional teams.)
+1. Dynamic Product Owner, Business Analyst, & Quality Assurance with a proven track record at PT Wolkk Cloud Development, adept in Agile methodologies and project management. Spearheaded successful rollouts across multiple countries, enhancing compliance and usability. Known for fostering stakeholder alignment and delivering high-quality documentation, driving efficiency and collaboration in cross-functional teams.
 2. [Skills & Tools](#skills--tools)
 3. [Certifications](#certifications)
 4. [Projects](#projects)
