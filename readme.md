@@ -139,41 +139,95 @@ Tools: Figma, Selenium, internal feedback loop.
 
 ---
 
-## About Me
-A brief introduction about your background, QA philosophy, and career goals.
+## 👋 About Me
 
-## Skills & Tools
-- Manual Testing
-- Test Automation (e.g., Selenium, Cypress)
-- API Testing (e.g., Postman, REST Assured)
-- Bug Tracking (e.g., Jira, Bugzilla)
-- Test Management (e.g., TestRail, Zephyr)
-- CI/CD (e.g., Jenkins, GitHub Actions)
-- Programming/Scripting (e.g., Python, JavaScript)
+Product Owner, Business Analyst, and QA Strategist with a cross-functional background delivering enterprise-grade POS systems and banking software across Europe and Southeast Asia. I specialize in aligning business goals with technical execution, leading rollouts in Italy, Hungary, and Lithuania, and building systemized testing pipelines across mobile, web, and API layers. I believe QA isn’t just about finding bugs—it's about **protecting product credibility** and building scalable systems.
 
-## Certifications
-- ISTQB Foundation Level
-- [Other relevant certifications]
+I’m currently embedded in multi-country EU POS rollouts while running my own automotive business. My approach blends **system thinking**, **root-cause analysis**, and **agile discipline**. My mission: to launch quality-driven, user-centric software that scales.
 
-## Projects
-### Project 1: [Project Name]
-- **Description:** Brief overview of the project.
-- **Role:** Your responsibilities.
-- **Tools/Tech:** Tools and technologies used.
+---
+
+## 🛠 Skills & Tools
+
+### 🔹 Core Testing
+- Manual Testing (UAT, exploratory, regression)
+- Test Automation: Selenium, Cypress, Appium
+- API Testing: Postman, REST Assured
+
+### 🔹 QA Process & Infrastructure
+- Bug Tracking: Jira, Bugzilla
+- Test Management: TestRail, Zephyr, Qase
+- CI/CD: Jenkins, GitHub Actions, GitLab CI
+
+### 🔹 Programming & Scripting
+- Python, JavaScript, Visual Basic
+- Bash (Secure Shell), Flutter, HTML/CSS
+
+### 🔹 Documentation & Modeling
+- Figma, Miro, Lucidchart
+- Confluence, Notion, Excel for test data and traceability
+
+---
+
+## 📜 Certifications
+
+- ✅ ISTQB Foundation Level – Udemy (Sep 2024)
+- ✅ Advanced Business Analyst – Udemy (Sep 2024)
+
+---
+
+## 🚀 Projects
+
+### Project 1: **Peek & Cloppenburg (P&C) POS System**
+- **Description:** Multi-country POS system rollout across Europe (Italy, Hungary, Lithuania)
+- **Role:** Product Owner, QA Analyst, Business Analyst
+- **Tools/Tech:** Jira, Confluence, Selenium, TestRail, Figma, Secure Shell
 - **Key Achievements:**
-  - Achievement 1
-  - Achievement 2
+  - Drove legal + IT adaptation across 3 EU countries
+  - Led cross-functional testing (sales, refund, discount modules)
+  - Coordinated between global IT, local BUs, and vendor teams
 
-### Project 2: [Project Name]
-- ...
+### Project 2: **AWAS360 Automated Warning Accident System**
+- **Description:** IoT surveillance platform for monitoring emergency on Car
+- **Role:** Project Manager, QA Strategist
+- **Tools/Tech:** Selenium, Python, Visual Basic, Raspberry Pi
+- **Key Achievements:**
+  - Launched product with IDR 150M revenue within pilot phase
+  - Developed go-to-market plan and system test flow
+  - Applied automation to reduce field testing cycle by 40%
 
-## Sample Test Artifacts
-- [Test Plan Example](link-or-attach-file)
-- [Test Case Example](link-or-attach-file)
-- [Bug Report Example](link-or-attach-file)
-- [Automation Script Example](link-or-attach-file)
+### Project 3: **Credit Scoring & Fraud Detection – DBS Bank**
+- **Description:** Internal scoring engine and fraud detection layer for loan origination
+- **Role:** QA Engineer, System Analyst
+- **Tools/Tech:** Excel, Confluence, internal automation scripts
+- **Key Achievements:**
+  - Built scoring framework with 1,500+ test entries
+  - Integrated real-time fraud detection mechanism
+  - Expanded loan limits with compliance optimization
 
-## Contact
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub](https://github.com/yourusername)
+### Project 4: **WMWN.Garage – Auto Trading Business**
+- **Description:** Personal business buying/selling premium used cars (incl. EVs)
+- **Role:** Owner, Ops Lead, Digital Strategist
+- **Tools/Tech:** Instagram, Google Sheets, Flutter (basic)
+- **Key Achievements:**
+  - 129+ vehicles sold with full-cycle operational control
+  - Trained team in digital content strategy for lead gen
+
+---
+
+## 🧪 Sample Test Artifacts
+
+> _Add these as actual links or uploads in your GitHub repo once available._
+
+- [📄 Test Plan Example](#)
+- [✅ Test Case Example](#)
+- [🐞 Bug Report Example](#)
+- [🤖 Automation Script Example](#)
+
+---
+
+## 📬 Contact
+
+- **Email:** azizwimawan@gmail.com  
+- **LinkedIn:** [linkedin.com/in/azizwimawan](https://linkedin.com/in/kuswanputra)  
+- **GitHub:** [github.com/Azizwimawan](https://github.com/yourusername)  
