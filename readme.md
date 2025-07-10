@@ -11,12 +11,12 @@ Currently leading multi-country POS rollouts while running my own auto-trading b
 ---
 
 # 📑 Table of Contents
-
-1. [Skills & Tools](#skills--tools)  
+1. [Skills & Tools](#️skills--tools)  
 2. [Certifications](#certifications)  
 3. [Projects](#projects)  
 4. [Sample Test Artifacts](#sample-test-artifacts)  
-5. [Contact](#contact)  
+5. [Contact](#contact)
+
 
 ---
 
