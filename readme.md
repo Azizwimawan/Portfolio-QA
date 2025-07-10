@@ -134,8 +134,8 @@ Helped redesign user journey for internal scoring tools.
 Tools: Figma, Selenium, internal feedback loop.
 
 
-5. [Sample Test Artifacts](#sample-test-artifacts) test sample test artifacts
-6. [Contact](#contact) test contact
+5. [Sample Test Artifacts](#sample-test-artifacts) 
+6. [Contact](#contact) mail : azizwimawan@gmail.com | (+62)85715473536 | linkedin/azizwimawan
 
 ---
 
