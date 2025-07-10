@@ -8,9 +8,10 @@ Test edit portfolio github
 I drive digital product rollouts across Europe—where complexity meets execution.  
 Built 5+ enterprise-grade POS systems across markets like Italy, Hungary, and Lithuania.  
 Former Project Manager (IDR 150M revenue launch), ex-DBS Bank (fraud detection + scoring engine).  
-Owner of WMWN.Garage.  
-QA-certified | Agile-native | Business-first mindset.  
+
+QA-certified |BA-certified | Agile-native | Business-first mindset.  
 Let’s build something worth shipping.
+¶
 2. [Skills & Tools](#skills--tools) 
 ¶ Quality Assurance (QA)
 
