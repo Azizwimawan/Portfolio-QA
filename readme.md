@@ -12,13 +12,13 @@ Owner of WMWN.Garage.
 QA-certified | Agile-native | Business-first mindset.  
 Let’s build something worth shipping.
 2. [Skills & Tools](#skills--tools) 
-🔍 Quality Assurance (QA)
+¶ Quality Assurance (QA)
 
-Test Management & Planning
+¶Test Management & Planning
 TestRail – Test case & result tracking
 Zephyr – Jira-native test management
 
-Automation Testing
+¶Automation Testing
 Selenium – Web automation (language agnostic)
 Playwright / Cypress – Fast, modern E2E browser testing
 Appium – Mobile app automation (iOS/Android)
