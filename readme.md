@@ -3,7 +3,8 @@
 Test edit portfolio github
 
 ## Table of Contents
-1. [About Me](#about-me) 🚀 Product Owner | Business Analyst | QA Strategist  
+1. [About Me](#about-me) 
+🚀 Product Owner | Business Analyst | QA Strategist  
 I drive digital product rollouts across Europe—where complexity meets execution.  
 Built 5+ enterprise-grade POS systems across markets like Italy, Hungary, and Lithuania.  
 Former Project Manager (IDR 150M revenue launch), ex-DBS Bank (fraud detection + scoring engine).  
