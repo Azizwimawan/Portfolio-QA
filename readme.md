@@ -140,7 +140,7 @@ Currently leading multi-country POS rollouts while running my own auto-trading b
 
 # 🧪 Sample Test Artifacts
 
-> 📁 All files are hosted in the `/docs` folder or linked via Google Drive.
+> 📁 All files are hosted in the provided link via Google Drive.
 
 ---
 
