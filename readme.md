@@ -140,12 +140,36 @@ Currently leading multi-country POS rollouts while running my own auto-trading b
 
 # 🧪 Sample Test Artifacts
 
-> *(Will be uploaded in `/docs` folder with links below)*
+> 📁 All files are hosted in the `/docs` folder or linked via Google Drive.
 
-- [📄 Test Plan Example](#)  
-- [✅ Test Case Example](#)  
-- [🐞 Bug Report Example](#)  
-- [🤖 Automation Script Example](#)  
+---
+
+### 📄 Test Plan Examples
+1. [EAA Pad POS – Functional Test Plan (PDF)](https://drive.google.com/file/d/LINK_HERE/view?usp=sharing)
+2. [AWAS360 – Surveillance System Test Strategy (PDF)](https://drive.google.com/file/d/LINK_HERE/view?usp=sharing)
+3. [P&C POS – Country Rollout Test Plan (PDF)](https://drive.google.com/file/d/LINK_HERE/view?usp=sharing)
+
+---
+
+### ✅ Test Case Examples
+1. [Refund Flow – Xentral POS (PDF)](https://drive.google.com/file/d/LINK_HERE/view?usp=sharing)
+2. [Mobile UI – Anker Store POS (PDF)](https://drive.google.com/file/d/LINK_HERE/view?usp=sharing)
+3. [Sales Discount Module – P&C POS (PDF)](https://drive.google.com/file/d/LINK_HERE/view?usp=sharing)
+
+---
+
+### 🐞 Bug Report Examples
+1. [UI Crash on Checkout – EAA POS (PDF)](https://drive.google.com/file/d/LINK_HERE/view?usp=sharing)
+2. [Incorrect Tax Calculation – P&C POS Hungary (PDF)](https://drive.google.com/file/d/LINK_HERE/view?usp=sharing)
+3. [Login Timeout – AWAS360 Backend (PDF)](https://drive.google.com/file/d/LINK_HERE/view?usp=sharing)
+
+---
+
+### 🤖 Automation Script Examples
+1. [Login Flow – Selenium + Python (PDF)](https://drive.google.com/file/d/LINK_HERE/view?usp=sharing)
+2. [API Smoke Test – Postman Collection (PDF)](https://drive.google.com/file/d/LINK_HERE/view?usp=sharing)
+3. [POS End-to-End – Cypress Report Snapshot (PDF)](https://drive.google.com/file/d/LINK_HERE/view?usp=sharing)
+
 
 ---
 
