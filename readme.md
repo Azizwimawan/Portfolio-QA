@@ -2,140 +2,182 @@
 
 Test edit portfolio github
 
-## Table of Contents
-1. [About Me](#about-me) 
-🚀 Product Owner | Business Analyst | QA Strategist  
+# 👋 About Me
+
+🚀 **Product Owner | Business Analyst | QA Strategist**
+
 I drive digital product rollouts across Europe—where complexity meets execution.  
-Built 5+ enterprise-grade POS systems across markets like Italy, Hungary, and Lithuania.  
-Former Project Manager (IDR 150M revenue launch), ex-DBS Bank (fraud detection + scoring engine).  
+With 5+ enterprise-grade POS systems launched across markets like Italy, Hungary, and Lithuania, I blend business insight with technical precision. My past roles include Project Manager for a digital surveillance platform (IDR 150M revenue launch) and QA/Analyst at DBS Bank, where I helped build credit scoring and fraud detection engines.
 
-QA-certified |BA-certified | Agile-native | Business-first mindset.  
+QA-certified | BA-certified | Agile-native | Business-first mindset.  
 Let’s build something worth shipping.
-¶
-2. [Skills & Tools](#skills--tools) 
-¶ Quality Assurance (QA)
 
-¶Test Management & Planning
-TestRail – Test case & result tracking
-Zephyr – Jira-native test management
+---
 
-¶Automation Testing
-Selenium – Web automation (language agnostic)
-Playwright / Cypress – Fast, modern E2E browser testing
-Appium – Mobile app automation (iOS/Android)
-TestComplete – Powerful no-code/low-code testing
-Katalon Studio – All-in-one automation framework
+# 📑 Table of Contents
+1. [Skills & Tools](#skills--tools)  
+2. [Certifications](#certifications)  
+3. [Projects](#projects)  
+4. [Sample Test Artifacts](#sample-test-artifacts)  
+5. [Contact](#contact)  
 
-API Testing
-Postman – Standard tool for API test scripting
-Rest Assured – Java-based API testing
-SoapUI – SOAP + REST support
+---
 
-Performance Testing
-JMeter – Performance and load testing
-Gatling – High-performance Scala-based alternative
-k6 – Modern load testing as code
-CI/CD Integration
-Jenkins / GitHub Actions / GitLab CI – Trigger tests automatically
-Allure / Extent Reports – Beautiful test reports
+# ⚙️ Skills & Tools
 
-Others
-Seetest / Perfecto – Mobile cloud automation
+### 🧪 Quality Assurance (QA)
 
-📊 Business Analyst (BA)
+**Test Management & Planning**
+- TestRail – Test case & result tracking  
+- Zephyr – Jira-native test management  
 
-Requirements Management & Documentation
-Confluence – Documentation and collaboration
-Jira – User stories, tasks, epics
-Notion – Lightweight alternative for quick notes + structure
-Lucidchart / Draw.io – Process diagrams and flowcharts
-Miro – Visual thinking, whiteboarding
+**Automation Testing**
+- Selenium – Web automation  
+- Playwright / Cypress – Modern E2E browser testing  
+- Appium – Mobile automation (iOS/Android)  
+- TestComplete – No-code/low-code test automation  
+- Katalon Studio – All-in-one test framework  
 
-Modeling & Analysis
-Figma – Wireframing tools
-Excel / Google Sheets – Data analysis, process mapping
-Power BI – Data visualization and reporting
-Bizagi / Visual Paradigm – BPMN, UML tools
+**API Testing**
+- Postman – API test scripting  
+- REST Assured – Java-based API testing  
+- SoapUI – REST & SOAP services  
 
-Communication Tools
-Teams – Cross-functional communication
+**Performance Testing**
+- JMeter – Load testing  
+- Gatling – High-performance Scala-based testing  
+- k6 – Load testing as code  
 
-🚀 Product Owner (PO)
+**CI/CD Integration**
+- Jenkins, GitHub Actions, GitLab CI  
+- Allure, Extent Reports – Reporting dashboards  
 
-Agile & Product Management
-Jira + Advanced Roadmaps – Backlog, sprint planning, roadmap visibility
-ClickUp / Monday.com / Trello – Alternative task boards
-Productboard / Aha.io – Product strategy, prioritization, feedback loops
-Miro / FigJam – Ideation, sprint retrospectives
+**Other Tools**
+- Seetest / Perfecto – Mobile cloud testing  
 
-User Feedback & Prioritization
-Hotjar / FullStory – Behavioral analytics
-Survicate / Typeform – User surveys
-Canny / Sleekplan – Public feature request boards
-Design Collaboration
-Figma – UI/UX design collaboration
-Zeplin – Developer handoff for design specs
+---
 
-Customer & Market Insight
-Google Analytics – Product usage data
-Maze / UsabilityHub – Usability testing
-Chat GPT - Product & Market research
-3. [Certifications](#certifications)
+### 📊 Business Analyst (BA)
 
-Advanced Business Analyst – Udemy
-📅 Completed: September 2024
-🧠 Focus: Advanced BA methodologies, stakeholder analysis, requirement elicitation, process modeling, business case creation.
+**Requirements & Documentation**
+- Jira, Confluence – Backlog & documentation  
+- Notion – Lightweight notes & docs  
+- Lucidchart / Draw.io – Diagrams & flows  
+- Miro – Ideation and stakeholder mapping  
 
-ISTQB Foundation Level 4 – Udemy
-📅 Completed: September 2024
-🧠 Focus: Core QA concepts, test planning, static/dynamic testing techniques, defect lifecycle, test automation principles.
-4. [Projects](#projects)
-🏪 Point-of-Sale (POS) Systems
+**Modeling & Analysis**
+- Figma – Wireframes and mockups  
+- Excel / Google Sheets – Data/process mapping  
+- Power BI – Dashboards and reporting  
+- Bizagi / Visual Paradigm – BPMN/UML  
 
-🔹 Enterprise & Retail POS Projects
-Xentral POS App
-Modular retail POS system for omnichannel operations.
-Focus: Sales, refunds, discounts, localized compliance.
+**Communication**
+- Teams, Slack, Zoom – Cross-functional sync  
 
-Peek & Cloppenburg POS (P&C POS)
-Multi-country POS rollout with legal adaptation for Italy, Hungary, Lithuania.
-Led global-local alignment and testing strategy.
+---
 
-EAA Pad POS App
-Tablet-based POS tailored for EAA product launches.
-Role: Test lead and documentation owner.
+### 🚀 Product Owner (PO)
 
-Anker Store App POS
-POS solution for retail outlets in EU.
-Focus: System integration testing, stakeholder feedback loop.
+**Agile & Product Tools**
+- Jira + Advanced Roadmaps – Backlog and roadmap visibility  
+- ClickUp, Monday.com, Trello – Task boards  
+- Productboard, Aha.io – Strategy and feedback loop  
 
-🔹 Surveillance & Safety Tech
-AWAS360
-Smart surveillance platform with embedded hardware while driving.
-Role: Business strategy (thesis project), GTM plan, QA & PM oversight.
-Revenue Launchpad: Generated IDR 150M in early revenue.
+**User Feedback**
+- Hotjar, FullStory – Behavior analytics  
+- Survicate, Typeform – Surveys  
+- Canny, Sleekplan – Public roadmaps  
 
-🔹 Banking (DBS Bank Indonesia)
+**Design & Collaboration**
+- Figma, Zeplin – Design handoff  
 
-Credit Scoring Engine
-Built scoring framework using 1,500+ test data entries.
-Outcome: Increased loan approval speed while maintaining risk thresholds.
+**Product Analytics**
+- Google Analytics, Mixpanel  
+- Maze, UsabilityHub – Usability testing  
+- ChatGPT – Market research, content drafting  
 
-Fraud Detection System
-Integrated real-time fraud detection into core banking apps.
-Outcome: Reduced false positives; boosted trust in digital services.
+---
 
-Loan Limit Optimization
-Redefined product limits based on risk/score matrix.
-Result: Increased average ticket size with compliance intact.
+# 📜 Certifications
 
-X Improvement Initiative
-Helped redesign user journey for internal scoring tools.
-Tools: Figma, Selenium, internal feedback loop.
+- **Advanced Business Analyst** – Udemy  
+  📅 Completed: September 2024  
+  🧠 Focus: Stakeholder analysis, process modeling, requirement elicitation  
 
+- **ISTQB Foundation Level 4** – Udemy  
+  📅 Completed: September 2024  
+  🧠 Focus: Test design, QA principles, automation and defect lifecycle  
 
-5. [Sample Test Artifacts](#sample-test-artifacts) 
-6. [Contact](#contact) mail : azizwimawan@gmail.com | (+62)85715473536 | linkedin/azizwimawan
+---
+
+# 🧩 Projects
+
+## 🏪 Point-of-Sale (POS) Systems
+
+### Xentral POS App  
+A modular retail POS system for omnichannel operations.  
+**Focus:** Sales, refunds, discounts, localized compliance.
+
+### Peek & Cloppenburg POS (P&C POS)  
+Multi-country POS rollout with legal/IT adaptation for Italy, Hungary, and Lithuania.  
+**Role:** Led alignment and test strategy across global/local teams.
+
+### EAA Pad POS App  
+Tablet-based POS tailored for product-specific launches.  
+**Role:** Test lead and documentation owner.
+
+### Anker Store App POS  
+POS system for retail outlets across EU.  
+**Focus:** Integration testing, feedback loops.
+
+---
+
+## 🎥 Surveillance & Safety Tech
+
+### AWAS360  
+Smart surveillance platform with embedded IoT hardware.  
+**Role:** Business strategist, QA lead, GTM planner.  
+**Impact:** Generated IDR 150M+ early revenue.
+
+---
+
+## 💰 Banking (DBS Bank Indonesia)
+
+### Credit Scoring Engine  
+Built from scratch using 1,500+ test data entries.  
+**Outcome:** Faster loan approvals with risk containment.
+
+### Fraud Detection System  
+Real-time monitoring layer for internal apps.  
+**Result:** Reduced false positives, improved fraud catch rate.
+
+### Loan Limit Optimization  
+Recalibrated scoring and risk matrices.  
+**Result:** Higher loan ceilings, compliance intact.
+
+### UX Improvement Initiative  
+Redesigned internal scoring journey.  
+**Tools:** Figma, Selenium, UAT feedback loop.
+
+---
+
+# 🧪 Sample Test Artifacts
+
+> *(Add actual files or links once available)*
+
+- [📄 Test Plan Example](#)  
+- [✅ Test Case Example](#)  
+- [🐞 Bug Report Example](#)  
+- [🤖 Automation Script Example](#)  
+
+---
+
+# 📬 Contact
+
+- **Email:** azizwimawan@gmail.com  
+- **Phone:** (+62) 857-1547-3536  
+- **LinkedIn:** [linkedin.com/in/azizwimawan](https://linkedin.com/in/azizwimawan)  
+
 
 ---
 
